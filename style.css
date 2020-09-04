@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Kumbh+Sans:300);
+
 h1, h2 {
   font-weight: bold;
-  font-family: "DejaVu Sans Mono";
+  font-family: 'Kumbh Sans', sans-serif;
 }
 p {
-  font-family: "Noto Sans";
+  font-family: 'Kumbh Sans', sans-serif;
 }
