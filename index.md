@@ -1,5 +1,6 @@
 <html>
   <head>
+    <link href="style.css" type="text/css" rel="stylesheet">
     <h1>Python Code Demos</h1>
   </head>
   <body>  
