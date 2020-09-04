@@ -1,7 +1,6 @@
-h1 {
+h1, h2 {
   font-weight: bold;
   font-family: "DejaVu Sans Mono";
-}
 p {
   font-family: "Noto Sans";
 }
