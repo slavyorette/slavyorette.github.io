@@ -1,14 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Kumbh+Sans:300);
-
 h1 {
   font-weight: bold;
-  font-family: Impact;
-  color: red;
+  font-family:Tahoma, Geneva, sans-serif;
 }
 h2 {
   font-weight: bold;
-  font-family: Impact;
+  font-family:Tahoma, Geneva, sans-serif;
 }
 p {
-  font-family: Impact;
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
