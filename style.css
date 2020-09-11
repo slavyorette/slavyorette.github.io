@@ -1,9 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Kumbh+Sans:300);
 
-h1, h2 {
+h1 {
   font-weight: bold;
-  font-family: 'Arial';
+  font-family: Arial;
+  color: red;
+}
+h2 {
+  font-weight: bold;
+  font-family: Arial;
 }
 p {
-  font-family: 'Arial';
+  font-family: Arial;
 }
