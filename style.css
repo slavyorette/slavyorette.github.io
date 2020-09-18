@@ -1,6 +1,9 @@
+* {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+}
+
 h1, h2 {
   font-weight: bold;
-  font-family:"Trebuchet MS", Helvetica, sans-serif;
 }
 
 .sidenav {
@@ -28,7 +31,6 @@ h1, h2 {
 }
 
 .main {
-  font-family:"Trebuchet MS", Helvetica, sans-serif;
   margin-left: 160px; /* Same as the width of the sidenav */
   font-size: 28px; /* Increased text to enable scrolling */
   padding: 0px 5px;
