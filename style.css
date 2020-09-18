@@ -33,7 +33,7 @@ h1, h2 {
 .main {
   margin-left: 200px; /* Same as the width of the sidenav */
   margin-right: 200px
-  font-size: 28px; /* Increased text to enable scrolling */
+  font-size: 38px; /* Increased text to enable scrolling */
   padding: 0px 5px;
 }
 
