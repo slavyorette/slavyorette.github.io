@@ -147,7 +147,7 @@ ol, li {
   position: relative;
   flex: 0 0 100%;
   width: 100%;
-  background-image: url(../“clock with code.png”);
+  background-image: url(../“clock_with_code.png”);
   counter-increment: item;
 }
 
