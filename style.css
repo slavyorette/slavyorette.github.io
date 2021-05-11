@@ -147,12 +147,12 @@ ol, li {
   position: relative;
   flex: 0 0 100%;
   width: 100%;
-  background-color: #f99;
+  background-image: url(../“clock with code.png”);
   counter-increment: item;
 }
 
 .carousel__slide:nth-child(even) {
-  background-color: #99f;
+  background-image: url(../images/madlibs.png)
 }
 
 .carousel__slide:before {
